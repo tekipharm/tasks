@@ -103,6 +103,17 @@ textarea{
     border-radius: 5px;
     background-color: #e0e0e9;
 }
+input[type=title] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    border-bottom: 1px dotted#fff;
+    border-radius: 5px;
+    background-color: #e0e0e9;
+  }
 input[type=submit] {
     background-color: #f7dcf7;
     width: 80px;
