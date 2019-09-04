@@ -55,9 +55,7 @@ li{
 b{
     color: black;
 }
-/* footer{
-    background-image: linear-gradient(to left bottom, #838182, #8a8088, #8e7f92, #8b809e, #8382ab, #798ab8, #6b94c3, #579dcc, #48acd3, #40bbd5, #47c9d3, #5cd6ce);
-} */
+
 .wrap{
     max-width: 80%;
     border-radius: 20px;
